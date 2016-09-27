@@ -1,6 +1,6 @@
 #### description
 
-clones the repository, generates a sdk from a swagger.(yaml|json), adds and commits everything, increments the version tag (+ 0.0.1) and pushes everything to the remote repository
+clones the repository, generates a sdk from a swagger.(yaml|json), adds and commits everything, increments the version tag (+ 0.0.1) and pushes everything to the remote repository 
 
 #### usage
 
